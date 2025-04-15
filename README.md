@@ -12,7 +12,7 @@
     <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img aling="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img aling="center" alt="Python" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img aling="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div><br/>
 
 I am a developer dedicated to problem-solving, not just using technologies. I believe that the focus of development is to create innovative solutions that generate value in general, and that the chosen technology is just a means to that end. Therefore, I am always willing to take on any challenge because learning leads me to my ultimate goal.
