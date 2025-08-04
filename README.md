@@ -1,7 +1,8 @@
 ### Hy there! My name is Enrico ☕
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-mz/)
-[![Linkedin](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/enricovmarquezz/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/enricovmarquezz/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://leetcode.com/enricovmarquezz/](https://www.codewars.com/users/Enric0Mz/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enric0Mz&show_icons=true&theme=tokyonight)
 
